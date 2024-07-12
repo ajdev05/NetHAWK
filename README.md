@@ -25,13 +25,13 @@ NetHAWK is a simple, powerful network monitoring tool that helps you see what's 
 
 ## How to Use
 
-### Run the program as an administrator. 
+### Run the program as an Administrator for error logging 
 
 1. **Select Network Interface**: Choose the network adapter you want to monitor.
 
 2. **Choose Protocol**: Select either TCP or UDP.
 
-3. **Set Port Filter**: (Optional) Enter specific port numbers to monitor, separated by commas.
+3. **Set Port Filter**: (Optional) Enter specific port numbers to monitor, separated by commas, e.g. (22,442,80)
 
 4. **Filter Private IPs**: Check this box to ignore traffic from private IP addresses.
 
