@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to all the open-source libraries that made this project possible, especially to [IP-API](https://ip-api.com/)
+- Thanks to all the open-source libraries that made this project possible, especially to [IP-API](https://ip-api.com/).
 
 ## Support
 
