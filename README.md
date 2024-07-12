@@ -25,6 +25,8 @@ NetHAWK is a simple, powerful network monitoring tool that helps you see what's 
 
 ## How to Use
 
+### Run the program as an administrator. 
+
 1. **Select Network Interface**: Choose the network adapter you want to monitor.
 
 2. **Choose Protocol**: Select either TCP or UDP.
