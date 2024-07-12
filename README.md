@@ -49,7 +49,7 @@ NetHAWK is a simple, powerful network monitoring tool that helps you see what's 
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions!
 
 ## License
 
