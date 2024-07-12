@@ -1,4 +1,4 @@
-[!NetHAWK Current Version](https://img.shields.io/badge/Version-1.3-yellow.svg)
+![NetHAWK Current Version](https://img.shields.io/badge/Version-1.3-yellow.svg)
 
 ![NetHAWK Logo](imgs/NetHAWK-Full-logo.png)
 
