@@ -2,7 +2,7 @@
 
 ![NetHAWK Logo](imgs/NetHAWK-Full-logo.png)
 
-NetHAWK is a simple, powerful network monitoring tool that helps you see what's happening on your network in real-time. With an easy-to-use graphical interface, it's perfect for both beginners and experienced users.
+NetHAWK is a simple, powerful network monitoring software that helps you see what's happening on your network in real-time. With an easy-to-use graphical interface, it's perfect for both beginners and experienced users.
 
 
 ![Program Image](imgs/program.png)
