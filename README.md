@@ -69,4 +69,4 @@ Join our community discussions! Share your experiences, ask questions, or sugges
 
 ---
 
-Made using 🧠+🐍 by AJDEV05
+Made using 🧠&🐍 by AJDEV05
