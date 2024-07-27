@@ -10,8 +10,8 @@ NetHAWK is an easy-to-use, powerful network monitoring software that helps you s
 ## Features 
  
 - **Real-time Monitoring**: Watch network traffic as it happens.
-- **Protocol Support**: Tracks both TCP and UDP connections.
-- **IP Geolocation**: Shows where IP addresses are located.
+- **Protocol Support**: Tracks both TCP and UDP connections. 
+- **IP Geolocation**: Shows where IP addresses are located. 
 - **Custom Filters**: Filter traffic by port numbers or ignore private IPs.
 - **Detailed Information**: Displays IP addresses, ports, locations, and packet counts. 
 - **User-friendly Interface**: Easy to use, even if you're not a network expert.
