@@ -7,7 +7,7 @@ NetHAWK is an easy-to-use, powerful network monitoring software that helps you s
  
 ![Program Image](imgs/program.png)
 
-## Features 
+## Features  
  
 - **Real-time Monitoring**: Watch network traffic as it happens.
 - **Protocol Support**: Tracks both TCP and UDP connections. 
